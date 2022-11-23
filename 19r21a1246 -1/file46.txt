@@ -1,0 +1,7 @@
+Employee ID:46
+Employee Name     :hims
+Father's Name     :srivas
+Employee Contact  :899654890
+Email Information :himaja110@gmail.com
+Employee position :associate engineer
+Employee Salary   :35000
